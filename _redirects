@@ -1,0 +1,3 @@
+# Cloudflare Pages 路由配置
+# 仅在访问不存在的页面（404）时回到首页
+/*    /index.html   404
