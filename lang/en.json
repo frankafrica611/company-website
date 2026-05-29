@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "name": "English",
+    "flag": "🇬🇧"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "cases": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "TRUSTED HYDRAULIC PUMP SUPPLIER",
+    "title": "Powering Africa's <em>Excavators</em> with Reliable Hydraulic Pumps",
+    "desc": "We supply high-quality main pumps, travel motors and hydraulic parts for Komatsu, Caterpillar, Hitachi, Kobelco and more — shipped fast to mining sites and workshops across Africa.",
+    "btn_products": "View Products",
+    "btn_quote": "Get a Quote",
+    "stat1_num": "15+",
+    "stat1_label": "Years in Hydraulics",
+    "stat2_num": "30+",
+    "stat2_label": "African Countries Served",
+    "stat3_num": "500+",
+    "stat3_label": "Pump Models in Stock"
+  },
+  "products": {
+    "kicker": "OUR PRODUCTS",
+    "title": "Hydraulic Pumps for Every Excavator",
+    "subtitle": "Genuine-spec aftermarket pumps, tested under full pressure before shipment.",
+    "tag_hot": "Best Seller",
+    "tag_stock": "In Stock",
+    "p1_name": "Main Hydraulic Pump",
+    "p1_model": "K3V63DT Series",
+    "p1_desc": "For 12-ton class excavators: CAT 312, Kobelco SK120, Hyundai R140-7 and more.",
+    "p2_name": "Main Hydraulic Pump",
+    "p2_model": "K3V112DT Series",
+    "p2_desc": "For 20-ton class excavators: Komatsu PC200, CAT 320, Hitachi ZX200.",
+    "p3_name": "Main Hydraulic Pump",
+    "p3_model": "K3V140 / HPV132",
+    "p3_desc": "For 30-ton class machines: PC300, CAT 330, Kobelco SK350.",
+    "spec_pressure": "32 MPa",
+    "spec_warranty": "12-Month Warranty",
+    "spec_ship": "7-Day Dispatch",
+    "view_detail": "View Details →"
+  },
+  "features": {
+    "kicker": "WHY CHOOSE US",
+    "title": "Built for African Job Sites",
+    "f1_title": "Fast Shipping",
+    "f1_desc": "In-stock pumps dispatched within 7 days. Air freight available for urgent breakdowns.",
+    "f2_title": "Quality Tested",
+    "f2_desc": "Every pump tested at full rated pressure and flow before it leaves our factory.",
+    "f3_title": "12-Month Warranty",
+    "f3_desc": "We stand behind our pumps with a clear, honest warranty policy.",
+    "f4_title": "Expert Support",
+    "f4_desc": "Send us your pump nameplate — we confirm the exact fit before you pay."
+  },
+  "cta": {
+    "title": "Need a Pump for Your Excavator?",
+    "desc": "Send us your excavator model or pump nameplate photo. We reply within 24 hours.",
+    "btn": "Contact Us Now"
+  },
+  "contact": {
+    "kicker": "GET IN TOUCH",
+    "title": "Request a Quotation",
+    "subtitle": "Tell us what you need — we'll send pricing and availability fast.",
+    "info_title": "Contact Information",
+    "addr_label": "Address",
+    "addr_value": "Industrial Zone, Your City, China",
+    "phone_label": "Phone / WhatsApp",
+    "email_label": "Email",
+    "hours_label": "Working Hours",
+    "hours_value": "Mon–Sat, 9:00–18:00 (GMT+8)",
+    "form_name": "Your Name",
+    "form_email": "Email Address",
+    "form_country": "Country",
+    "form_whatsapp": "WhatsApp Number",
+    "form_model": "Excavator / Pump Model",
+    "form_message": "Your Message",
+    "form_message_ph": "e.g. I need a K3V112DT pump for Komatsu PC200-8, quantity 2...",
+    "form_submit": "Send Inquiry",
+    "form_note": "Or message us directly on WhatsApp for the fastest reply."
+  },
+  "footer": {
+    "about_title": "AquaDrive Hydraulics",
+    "about_desc": "A professional supplier of excavator hydraulic pumps and parts, serving construction and mining customers across Africa.",
+    "links_title": "Quick Links",
+    "products_title": "Products",
+    "contact_title": "Contact",
+    "copyright": "© 2026 AquaDrive Hydraulics. All rights reserved."
+  },
+  "about": {
+    "kicker": "ABOUT US",
+    "title": "Your Reliable Hydraulics Partner",
+    "intro": "AquaDrive Hydraulics specializes in supplying high-quality hydraulic pumps, travel motors and parts for excavators. For over 15 years we have served construction and mining customers worldwide, with a strong focus on the African market.",
+    "mission_title": "What We Do",
+    "mission": "We help equipment dealers, repair workshops and mining companies keep their excavators running. Every pump is matched carefully to your machine and tested before shipment.",
+    "v1_title": "Quality First",
+    "v1_desc": "Genuine-spec materials and full-pressure testing on every unit.",
+    "v2_title": "Honest Service",
+    "v2_desc": "Clear warranty, accurate fitment advice, no empty promises.",
+    "v3_title": "Africa Focused",
+    "v3_desc": "We understand African ports, logistics and payment realities."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "lang": "pt",
+    "dir": "ltr",
+    "name": "Português",
+    "flag": "🇵🇹"
+  },
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre Nós",
+    "cases": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "eyebrow": "FORNECEDOR CONFIÁVEL DE BOMBAS HIDRÁULICAS",
+    "title": "Impulsionando as <em>escavadeiras</em> da África com bombas hidráulicas confiáveis",
+    "desc": "Fornecemos bombas principais, motores de translação e peças hidráulicas de alta qualidade para Komatsu, Caterpillar, Hitachi, Kobelco e mais — enviadas rapidamente para minas e oficinas em toda a África.",
+    "btn_products": "Ver Produtos",
+    "btn_quote": "Solicitar Orçamento",
+    "stat1_num": "15+",
+    "stat1_label": "Anos em Hidráulica",
+    "stat2_num": "30+",
+    "stat2_label": "Países Africanos Atendidos",
+    "stat3_num": "500+",
+    "stat3_label": "Modelos em Estoque"
+  },
+  "products": {
+    "kicker": "NOSSOS PRODUTOS",
+    "title": "Bombas Hidráulicas para Cada Escavadeira",
+    "subtitle": "Bombas aftermarket com especificação original, testadas sob pressão total antes do envio.",
+    "tag_hot": "Mais Vendido",
+    "tag_stock": "Em Estoque",
+    "p1_name": "Bomba Hidráulica Principal",
+    "p1_model": "Série K3V63DT",
+    "p1_desc": "Para escavadeiras de 12 toneladas: CAT 312, Kobelco SK120, Hyundai R140-7 e mais.",
+    "p2_name": "Bomba Hidráulica Principal",
+    "p2_model": "Série K3V112DT",
+    "p2_desc": "Para escavadeiras de 20 toneladas: Komatsu PC200, CAT 320, Hitachi ZX200.",
+    "p3_name": "Bomba Hidráulica Principal",
+    "p3_model": "K3V140 / HPV132",
+    "p3_desc": "Para máquinas de 30 toneladas: PC300, CAT 330, Kobelco SK350.",
+    "spec_pressure": "32 MPa",
+    "spec_warranty": "Garantia 12 Meses",
+    "spec_ship": "Envio em 7 Dias",
+    "view_detail": "Ver Detalhes →"
+  },
+  "features": {
+    "kicker": "POR QUE NOS ESCOLHER",
+    "title": "Feito para os Canteiros Africanos",
+    "f1_title": "Envio Rápido",
+    "f1_desc": "Bombas em estoque enviadas em 7 dias. Frete aéreo disponível para falhas urgentes.",
+    "f2_title": "Qualidade Testada",
+    "f2_desc": "Cada bomba testada com pressão e fluxo nominais antes de sair da fábrica.",
+    "f3_title": "Garantia 12 Meses",
+    "f3_desc": "Apoiamos nossas bombas com uma política de garantia clara e honesta.",
+    "f4_title": "Suporte Especializado",
+    "f4_desc": "Envie-nos a placa da sua bomba — confirmamos a compatibilidade antes do pagamento."
+  },
+  "cta": {
+    "title": "Precisa de uma Bomba para sua Escavadeira?",
+    "desc": "Envie-nos o modelo da sua escavadeira ou foto da placa da bomba. Respondemos em 24 horas.",
+    "btn": "Fale Conosco Agora"
+  },
+  "contact": {
+    "kicker": "ENTRE EM CONTATO",
+    "title": "Solicitar um Orçamento",
+    "subtitle": "Diga-nos o que precisa — enviaremos preços e disponibilidade rapidamente.",
+    "info_title": "Informações de Contato",
+    "addr_label": "Endereço",
+    "addr_value": "Zona Industrial, Sua Cidade, China",
+    "phone_label": "Telefone / WhatsApp",
+    "email_label": "E-mail",
+    "hours_label": "Horário de Funcionamento",
+    "hours_value": "Seg–Sáb, 9:00–18:00 (GMT+8)",
+    "form_name": "Seu Nome",
+    "form_email": "Endereço de E-mail",
+    "form_country": "País",
+    "form_whatsapp": "Número de WhatsApp",
+    "form_model": "Modelo de Escavadeira / Bomba",
+    "form_message": "Sua Mensagem",
+    "form_message_ph": "ex. Preciso de uma bomba K3V112DT para Komatsu PC200-8, quantidade 2...",
+    "form_submit": "Enviar Consulta",
+    "form_note": "Ou envie-nos uma mensagem direta no WhatsApp para resposta mais rápida."
+  },
+  "footer": {
+    "about_title": "AquaDrive Hydraulics",
+    "about_desc": "Fornecedor profissional de bombas hidráulicas e peças para escavadeiras, atendendo clientes de construção e mineração em toda a África.",
+    "links_title": "Links Rápidos",
+    "products_title": "Produtos",
+    "contact_title": "Contato",
+    "copyright": "© 2026 AquaDrive Hydraulics. Todos os direitos reservados."
+  },
+  "about": {
+    "kicker": "SOBRE NÓS",
+    "title": "Seu Parceiro Confiável em Hidráulica",
+    "intro": "A AquaDrive Hydraulics é especializada no fornecimento de bombas hidráulicas, motores de translação e peças de alta qualidade para escavadeiras. Há mais de 15 anos atendemos clientes de construção e mineração em todo o mundo, com forte foco no mercado africano.",
+    "mission_title": "O Que Fazemos",
+    "mission": "Ajudamos revendedores de equipamentos, oficinas de reparo e empresas de mineração a manter suas escavadeiras funcionando. Cada bomba é cuidadosamente combinada com sua máquina e testada antes do envio.",
+    "v1_title": "Qualidade em Primeiro Lugar",
+    "v1_desc": "Materiais com especificação original e teste de pressão total em cada unidade.",
+    "v2_title": "Serviço Honesto",
+    "v2_desc": "Garantia clara, conselhos precisos de compatibilidade, sem promessas vazias.",
+    "v3_title": "Foco na África",
+    "v3_desc": "Entendemos os portos, logística e realidades de pagamento africanos."
+  }
+}

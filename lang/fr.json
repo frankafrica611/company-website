@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "lang": "fr",
+    "dir": "ltr",
+    "name": "Français",
+    "flag": "🇫🇷"
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À Propos",
+    "cases": "Réalisations",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "FOURNISSEUR DE POMPES HYDRAULIQUES DE CONFIANCE",
+    "title": "Au service des <em>pelles</em> d'Afrique avec des pompes hydrauliques fiables",
+    "desc": "Nous fournissons des pompes principales, moteurs de translation et pièces hydrauliques de haute qualité pour Komatsu, Caterpillar, Hitachi, Kobelco et plus — expédiés rapidement vers les sites miniers et ateliers à travers l'Afrique.",
+    "btn_products": "Voir les Produits",
+    "btn_quote": "Demander un Devis",
+    "stat1_num": "15+",
+    "stat1_label": "Ans d'Expérience",
+    "stat2_num": "30+",
+    "stat2_label": "Pays Africains Servis",
+    "stat3_num": "500+",
+    "stat3_label": "Modèles en Stock"
+  },
+  "products": {
+    "kicker": "NOS PRODUITS",
+    "title": "Pompes Hydrauliques pour Toutes les Pelles",
+    "subtitle": "Pompes aftermarket aux spécifications d'origine, testées sous pleine pression avant expédition.",
+    "tag_hot": "Meilleure Vente",
+    "tag_stock": "En Stock",
+    "p1_name": "Pompe Hydraulique Principale",
+    "p1_model": "Série K3V63DT",
+    "p1_desc": "Pour pelles de 12 tonnes : CAT 312, Kobelco SK120, Hyundai R140-7 et plus.",
+    "p2_name": "Pompe Hydraulique Principale",
+    "p2_model": "Série K3V112DT",
+    "p2_desc": "Pour pelles de 20 tonnes : Komatsu PC200, CAT 320, Hitachi ZX200.",
+    "p3_name": "Pompe Hydraulique Principale",
+    "p3_model": "K3V140 / HPV132",
+    "p3_desc": "Pour machines de 30 tonnes : PC300, CAT 330, Kobelco SK350.",
+    "spec_pressure": "32 MPa",
+    "spec_warranty": "Garantie 12 Mois",
+    "spec_ship": "Expédition 7 Jours",
+    "view_detail": "Voir les Détails →"
+  },
+  "features": {
+    "kicker": "POURQUOI NOUS CHOISIR",
+    "title": "Conçu pour les Chantiers Africains",
+    "f1_title": "Expédition Rapide",
+    "f1_desc": "Pompes en stock expédiées sous 7 jours. Fret aérien disponible pour les pannes urgentes.",
+    "f2_title": "Qualité Testée",
+    "f2_desc": "Chaque pompe testée à pleine pression et débit nominal avant de quitter notre usine.",
+    "f3_title": "Garantie 12 Mois",
+    "f3_desc": "Nous soutenons nos pompes avec une politique de garantie claire et honnête.",
+    "f4_title": "Support Expert",
+    "f4_desc": "Envoyez-nous la plaque de votre pompe — nous confirmons la compatibilité avant paiement."
+  },
+  "cta": {
+    "title": "Besoin d'une Pompe pour Votre Pelle ?",
+    "desc": "Envoyez-nous le modèle de votre pelle ou une photo de la plaque. Nous répondons sous 24 heures.",
+    "btn": "Contactez-Nous"
+  },
+  "contact": {
+    "kicker": "CONTACTEZ-NOUS",
+    "title": "Demander un Devis",
+    "subtitle": "Dites-nous ce dont vous avez besoin — nous envoyons prix et disponibilité rapidement.",
+    "info_title": "Coordonnées",
+    "addr_label": "Adresse",
+    "addr_value": "Zone Industrielle, Votre Ville, Chine",
+    "phone_label": "Téléphone / WhatsApp",
+    "email_label": "E-mail",
+    "hours_label": "Heures d'Ouverture",
+    "hours_value": "Lun–Sam, 9:00–18:00 (GMT+8)",
+    "form_name": "Votre Nom",
+    "form_email": "Adresse E-mail",
+    "form_country": "Pays",
+    "form_whatsapp": "Numéro WhatsApp",
+    "form_model": "Modèle de Pelle / Pompe",
+    "form_message": "Votre Message",
+    "form_message_ph": "ex. J'ai besoin d'une pompe K3V112DT pour Komatsu PC200-8, quantité 2...",
+    "form_submit": "Envoyer la Demande",
+    "form_note": "Ou contactez-nous directement sur WhatsApp pour une réponse rapide."
+  },
+  "footer": {
+    "about_title": "AquaDrive Hydraulics",
+    "about_desc": "Fournisseur professionnel de pompes hydrauliques et pièces pour pelles, au service des clients de la construction et des mines à travers l'Afrique.",
+    "links_title": "Liens Rapides",
+    "products_title": "Produits",
+    "contact_title": "Contact",
+    "copyright": "© 2026 AquaDrive Hydraulics. Tous droits réservés."
+  },
+  "about": {
+    "kicker": "À PROPOS",
+    "title": "Votre Partenaire Hydraulique de Confiance",
+    "intro": "AquaDrive Hydraulics est spécialisé dans la fourniture de pompes hydrauliques, moteurs de translation et pièces de haute qualité pour pelles. Depuis plus de 15 ans, nous servons les clients de la construction et des mines dans le monde entier, avec un fort accent sur le marché africain.",
+    "mission_title": "Ce Que Nous Faisons",
+    "mission": "Nous aidons les concessionnaires, ateliers de réparation et sociétés minières à garder leurs pelles en marche. Chaque pompe est soigneusement adaptée à votre machine et testée avant expédition.",
+    "v1_title": "La Qualité d'Abord",
+    "v1_desc": "Matériaux aux spécifications d'origine et tests à pleine pression.",
+    "v2_title": "Service Honnête",
+    "v2_desc": "Garantie claire, conseils de compatibilité précis, pas de promesses vides.",
+    "v3_title": "Axé sur l'Afrique",
+    "v3_desc": "Nous comprenons les ports, la logistique et les réalités de paiement africains."
+  }
+}
