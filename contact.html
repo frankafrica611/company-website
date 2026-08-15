@@ -1,166 +1,181 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HKPF79LVZV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HKPF79LVZV');
+</script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Us — AquaDrive Hydraulics</title>
-  <meta name="description" content="Request a quotation for excavator hydraulic pumps. Fast reply within 24 hours.">
+  <title>Contact Guangzhou Frank Tech – Excavator Hydraulic Parts Inquiry</title>
+  <meta name="description" content="Contact Guangzhou Frank Tech for quotes, technical support, and partnership inquiries. Email, WhatsApp, WeChat available.">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body dir="ltr">
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <!-- ========== 顶部导航 ========== -->
+  <!-- Topbar -->
+  <div class="topbar">
+    <div class="container">
+      <span data-i18n="home.topbar">Specialized Sourcing Partner for Excavator Hydraulics — OEM Quality, Global Reach</span>
+      <div class="topbar-links">
+        <span class="email-text" data-i18n="home.email">Email: frank@flutek.com</span>
+        <a href="https://wa.me/8619068999319" data-i18n="home.whatsapp">WhatsApp</a>
+        <span class="tel-wechat" data-i18n="home.wechat">Tel/WeChat: +86 190 6899 9319</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header -->
   <header class="header">
     <div class="container nav">
-      <a href="index.html" class="logo">
-        <span class="logo-mark">A</span>
-        Aqua<span>Drive</span>
+      <a href="index.html" class="logo" aria-label="Frank Hydraulics">
+        <span class="logo-mark">F</span>
+        <span class="logo-text"><span class="logo-name">FRANK</span></span>
       </a>
-      <nav class="nav-links">
+      <nav class="nav-links" aria-label="Primary navigation">
         <a href="index.html" data-i18n="nav.home">Home</a>
-        <a href="products.html" data-i18n="nav.products">Products</a>
-        <a href="about.html" data-i18n="nav.about">About Us</a>
-        <a href="index.html#cases" data-i18n="nav.cases">Projects</a>
-        <a href="contact.html" data-i18n="nav.contact">Contact</a>
-      </nav>
-      <div style="display:flex; align-items:center; gap:12px;">
-        <div class="lang-switch">
-          <button class="lang-btn">
-            <span class="lang-flag">🇬🇧</span>
-            <span class="lang-label">English</span>
-            <span>▾</span>
-          </button>
-          <div class="lang-menu">
-            <button data-lang="en"><span class="lang-flag">🇬🇧</span> English</button>
-            <button data-lang="fr"><span class="lang-flag">🇫🇷</span> Français</button>
-            <button data-lang="ar"><span class="lang-flag">🇸🇦</span> العربية</button>
-            <button data-lang="pt"><span class="lang-flag">🇵🇹</span> Português</button>
+        <div class="nav-item has-dropdown">
+          <a href="products/index.html" aria-haspopup="true" aria-expanded="false" >
+            <span data-i18n="nav.products">Products</span><span class="nav-caret" aria-hidden="true">▾</span>
+          </a>
+          <div class="nav-dropdown" aria-label="Product categories">
+            <a href="products/piston-pumps/index.html" ><strong data-i18n="home.catPistonPumps">Piston Pumps</strong></a>
+            <a href="products/swing-motors/index.html" ><strong data-i18n="home.catSwingMotors">Swing Motors</strong></a>
+            <a href="products/travel-motors/index.html" ><strong data-i18n="home.catTravelMotors">Travel Motors</strong></a>
+            <a href="products/reduction-gears/index.html" ><strong data-i18n="home.catReductionGears">Reduction Gears</strong></a>
+            <a href="products/pump-motor-parts/index.html" ><strong data-i18n="home.catSpareParts">Spare Parts</strong></a>
           </div>
         </div>
-        <button class="menu-toggle">☰</button>
+        <a href="excavator-parts/index.html" data-i18n="home.byMachine">By Machine</a>
+        <a href="news/index.html" data-i18n="home.news">News</a>
+        <a href="about.html" data-i18n="nav.about">About Us</a>
+        <a href="contact.html" class="active" data-i18n="home.navContact">Contact Us</a>
+      </nav>
+      <div class="nav-actions">
+        <div class="lang-switch">
+          <button class="lang-btn" type="button" aria-expanded="false" aria-controls="lang-menu">
+            <span class="lang-code">EN</span><span class="lang-label">English</span><span class="lang-caret">▾</span>
+          </button>
+          <div class="lang-menu" id="lang-menu">
+            <button type="button" data-lang="en"><span class="lang-code">EN</span> English</button>
+            <button type="button" data-lang="fr"><span class="lang-code">FR</span> Français</button>
+            <button type="button" data-lang="pt"><span class="lang-code">PT</span> Português</button>
+            <button type="button" data-lang="ar"><span class="lang-code">AR</span> العربية</button>
+            <button type="button" data-lang="sw"><span class="lang-code">SW</span> Kiswahili</button>
+          </div>
+        </div>
+        <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">☰</button>
       </div>
     </div>
   </header>
 
-  <!-- ========== 页面横幅 ========== -->
-  <section class="page-banner">
-    <div class="container">
-      <h1 data-i18n="contact.title">Request a Quotation</h1>
-      <p data-i18n="contact.subtitle">Tell us what you need — we'll send pricing fast.</p>
-    </div>
-  </section>
+  <main id="main">
+    <section class="page-hero">
+      <div class="container">
+        <h1 data-i18n="pgContact.heroTitle">Contact Us</h1>
+        <p data-i18n="pgContact.heroDesc">Get a quote, ask a question, or discuss your project. We respond within 24 hours.</p>
+      </div>
+    </section>
 
-  <!-- ========== 联系内容 ========== -->
-  <section class="section">
-    <div class="container">
-      <div class="contact-wrap">
+    <section class="section">
+      <div class="container">
+        <div class="contact-layout">
+          <div class="contact-info">
+            <h2 data-i18n="pgContact.officeTitle">Our Office</h2>
+            <p class="company-name">Guangzhou Frank Tech Co., Ltd.</p>
+            <p class="company-address">Unit 611, Street #6, Guangzhou International Machinery Parts Market, No. 36 Zhuji Road, Tianhe District, Guangzhou, Guangdong 510000, China</p>
 
-        <!-- 联系信息 -->
-        <div class="contact-info">
-          <h3 data-i18n="contact.info_title">Contact Information</h3>
-          <div class="contact-item">
-            <div class="ci-icon">📍</div>
-            <div>
-              <strong data-i18n="contact.addr_label">Address</strong>
-              <span data-i18n="contact.addr_value">Industrial Zone, Your City, China</span>
-            </div>
-          </div>
-          <div class="contact-item">
-            <div class="ci-icon">📱</div>
-            <div>
-              <strong data-i18n="contact.phone_label">Phone / WhatsApp</strong>
-              <span>+86 138 0000 0000</span>
-            </div>
-          </div>
-          <div class="contact-item">
-            <div class="ci-icon">✉️</div>
-            <div>
-              <strong data-i18n="contact.email_label">Email</strong>
-              <span>sales@yourcompany.com</span>
-            </div>
-          </div>
-          <div class="contact-item">
-            <div class="ci-icon">🕐</div>
-            <div>
-              <strong data-i18n="contact.hours_label">Working Hours</strong>
-              <span data-i18n="contact.hours_value">Mon–Sat, 9:00–18:00 (GMT+8)</span>
-            </div>
-          </div>
-        </div>
+            <h3 data-i18n="pgContact.directTitle">Direct Contacts</h3>
+            <ul class="contact-list">
+              <li ><strong data-i18n="pgContact.emailLbl">Email:</strong> <a href="mailto:frank@flutek.com">frank@flutek.com</a></li>
+              <li ><strong data-i18n="pgContact.whatsappLbl">WhatsApp:</strong> <a href="https://wa.me/8619068999319">+86 190 6899 9319</a></li>
+              <li ><strong data-i18n="pgContact.wechatLbl">WeChat ID:</strong> +86 190 6899 9319</li>
+              <li ><strong data-i18n="pgContact.phoneLbl">Phone:</strong> +86 190 6899 9319</li>
+            </ul>
 
-        <!-- 询盘表单 -->
-        <div class="form-card">
-          <form id="inquiry-form">
-            <div class="form-row">
-              <div class="field">
-                <label data-i18n="contact.form_name">Your Name</label>
-                <input type="text" id="f-name" required>
-              </div>
-              <div class="field">
-                <label data-i18n="contact.form_email">Email Address</label>
-                <input type="email" id="f-email" required>
-              </div>
+            <h3 data-i18n="pgContact.hoursTitle">Working Hours</h3>
+            <p data-i18n-html="pgContact.hoursValue">Monday – Friday: 09:00 – 18:00 (GMT+8)<br>Saturday: 09:00 – 13:00 (GMT+8)</p>
+          </div>
+
+          <form class="contact-form" id="inquiry-form" action="#" method="POST" >
+            <h2 data-i18n="pgContact.formTitle">Send a Message</h2>
+
+            <!-- Web3Forms access key (read by js/i18n.js initInquiryForm) -->
+            <input type="hidden" id="web3forms-access-key" name="access_key" value="8a6d06a4-840b-47fa-9b1b-f9999d589557">
+            <input type="hidden" name="subject" value="">
+
+            <div class="form-group">
+              <label data-i18n="pgContact.labelName" for="name">Your Name *</label>
+              <input type="text" id="name" name="name" required>
             </div>
-            <div class="form-row">
-              <div class="field">
-                <label data-i18n="contact.form_country">Country</label>
-                <input type="text" id="f-country">
-              </div>
-              <div class="field">
-                <label data-i18n="contact.form_whatsapp">WhatsApp Number</label>
-                <input type="text" id="f-whatsapp">
-              </div>
+
+            <div class="form-group">
+              <label data-i18n="pgContact.labelEmail" for="f-email">Email Address *</label>
+              <input type="email" id="f-email" name="email" required>
             </div>
-            <div class="field">
-              <label data-i18n="contact.form_model">Excavator / Pump Model</label>
-              <input type="text" id="f-model">
+
+            <div class="form-group">
+              <label data-i18n="pgContact.labelCompany" for="company">Company Name</label>
+              <input type="text" id="company" name="company">
             </div>
-            <div class="field">
-              <label data-i18n="contact.form_message">Your Message</label>
-              <textarea id="f-message" data-i18n-ph="contact.form_message_ph"
-                placeholder="e.g. I need a K3V112DT pump for Komatsu PC200-8..."></textarea>
+
+            <div class="form-group">
+              <label data-i18n="pgContact.labelMachine" for="machine">Machine Model (if known)</label>
+              <input type="text" id="machine" name="machine" placeholder="e.g. SANY SY215">
             </div>
-            <button type="submit" class="btn btn-primary" style="width:100%;"
-              data-i18n="contact.form_submit">Send Inquiry</button>
-            <p style="text-align:center; margin-top:14px; font-size:13px; color:#5f6b7a;"
-              data-i18n="contact.form_note">Or message us directly on WhatsApp.</p>
+
+            <div class="form-group">
+              <label data-i18n="pgContact.labelMessage" for="message">Your Message *</label>
+              <textarea id="message" name="message" rows="5" required></textarea>
+            </div>
+
+            <div id="form-status" class="form-status" role="status" aria-live="polite"></div>
+
+            <button type="submit" class="btn btn-primary" data-i18n="pgContact.submitBtn">Send Inquiry</button>
           </form>
         </div>
-
       </div>
-    </div>
-  </section>
+    </section>
+  </main>
 
-  <!-- ========== 页脚 ========== -->
   <footer class="footer">
     <div class="container">
       <div class="footer-grid">
-        <div class="about-col">
-          <h4 data-i18n="footer.about_title">AquaDrive Hydraulics</h4>
-          <p data-i18n="footer.about_desc">A professional supplier of excavator hydraulic pumps and parts.</p>
+        <div>
+          <h3 data-i18n="home.footerCompany">Guangzhou Frank Tech Co., Ltd.</h3>
+          <p data-i18n="home.footerAbout">Genuine OEM excavator parts from Flutek.</p>
         </div>
         <div>
-          <h4 data-i18n="footer.links_title">Quick Links</h4>
+          <h4 data-i18n="home.footerLinks">Quick Links</h4>
           <a href="index.html" data-i18n="nav.home">Home</a>
-          <a href="products.html" data-i18n="nav.products">Products</a>
+          <a href="products/index.html" data-i18n="nav.products">Products</a>
+          <a href="excavator-parts/index.html" data-i18n="home.byMachine">By Machine</a>
           <a href="about.html" data-i18n="nav.about">About Us</a>
-          <a href="contact.html" data-i18n="nav.contact">Contact</a>
+          <a href="contact.html" data-i18n="home.navContact">Contact Us</a>
         </div>
         <div>
-          <h4 data-i18n="footer.products_title">Products</h4>
-          <a href="products.html">K3V63DT</a>
-          <a href="products.html">K3V112DT</a>
-          <a href="products.html">K3V140</a>
+          <h4 data-i18n="home.footerProducts">Products</h4>
+          <a href="products/piston-pumps/index.html" data-i18n="home.catPistonPumps">Piston Pumps</a>
+          <a href="products/swing-motors/index.html" data-i18n="home.catSwingMotors">Swing Motors</a>
+          <a href="products/travel-motors/index.html" data-i18n="home.catTravelMotors">Travel Motors</a>
+          <a href="products/reduction-gears/index.html" data-i18n="home.catReductionGears">Reduction Gears</a>
+          <a href="products/pump-motor-parts/index.html" data-i18n="home.catSpareParts">Spare Parts</a>
         </div>
         <div>
-          <h4 data-i18n="footer.contact_title">Contact</h4>
-          <a href="mailto:sales@yourcompany.com">sales@yourcompany.com</a>
-          <a href="https://wa.me/8613800000000">WhatsApp: +86 138 0000 0000</a>
+          <h4 data-i18n="home.footerContact">Contact</h4>
+          <span class="email-text" data-i18n="home.email">Email: frank@flutek.com</span>
+          <a href="https://wa.me/8619068999319" data-i18n="home.whatsapp">WhatsApp</a>
+          <span class="tel-wechat" data-i18n="home.wechat">Tel/WeChat: +86 190 6899 9319</span>
         </div>
       </div>
-      <div class="footer-bottom">
-        <span data-i18n="footer.copyright">© 2026 AquaDrive Hydraulics. All rights reserved.</span>
-      </div>
+      <div class="footer-bottom" data-i18n="home.copy">© 2026 Guangzhou Frank Tech Co., Ltd. All rights reserved.</div>
     </div>
   </footer>
 

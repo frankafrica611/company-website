@@ -1,0 +1,5 @@
+# robots.txt — Frank Tech (flutek.com)
+User-agent: *
+Allow: /
+
+Sitemap: https://flutek.com/sitemap.xml

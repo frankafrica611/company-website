@@ -1,0 +1,984 @@
+{
+  "categories": [
+    "piston-pumps",
+    "swing-motors",
+    "travel-motors",
+    "reduction-gears",
+    "spare-parts"
+  ],
+  "products": [
+    {
+      "id": "k3v63",
+      "category": "piston-pumps",
+      "name": "K3V63DT",
+      "shortDesc": "For 12–15 ton excavators",
+      "specs": {
+        "displacement": "63 cm³",
+        "rated-pressure": "34.3 MPa",
+        "peak-pressure": "39.2 MPa",
+        "max-primming-speed": "2650 min⁻¹",
+        "max-speed": "3250 min⁻¹",
+        "max-input-torque-tandem-pump": "343 N.m",
+        "max-input-torque-gear-pump-pto": "125 N.m",
+        "single-pump-weight": "≈ 48 kg",
+        "tandem-pump-weight": "≈ 81 kg",
+        "applications": "EC140B, SY135"
+      },
+      "description": "The K3V63 is a variable displacement axial piston pump designed for small to medium excavators. Proven reliability with over 20 years of field experience.",
+      "features": [
+        "Swash plate design",
+        "Open center control",
+        "Tandem configuration available"
+      ],
+      "image": "/images/products/piston-pumps/k3v63.jpg",
+      "compatibleModels": [
+        "EC140B",
+        "SY135"
+      ]
+    },
+    {
+      "id": "k3v112",
+      "category": "piston-pumps",
+      "name": "K3V112DT",
+      "shortDesc": "For 20–25 ton excavators",
+      "specs": {
+        "displacement": "112 cm³",
+        "rated-pressure": "34.3 MPa",
+        "peak-pressure": "39.2 MPa",
+        "max-primming-speed": "2360 min⁻¹",
+        "max-speed": "2700 min⁻¹",
+        "max-input-torque-tandem-pump": "588 N.m",
+        "max-input-torque-gear-pump-pto": "125 N.m",
+        "single-pump-weight": "≈ 68 kg",
+        "tandem-pump-weight": "≈ 125 kg",
+        "applications": "SY215, EC210"
+      },
+      "description": "Medium-displacement piston pump for 20–25 ton excavators. High efficiency and durability under heavy loads.",
+      "features": [
+        "Swash plate design",
+        "Open center control",
+        "Tandem configuration available"
+      ],
+      "image": "/images/products/piston-pumps/piston-pump-k3V112DTP-1.jpg",
+      "compatibleModels": [
+        "SY215",
+        "EC210"
+      ],
+      "gallery": [
+        "/images/products/piston-pumps/piston-pump-k3V112DTP-1.jpg",
+        "/images/products/piston-pumps/piston-pump-k3V112DTP-2.jpg"
+      ]
+    },
+    {
+      "id": "k3v140",
+      "category": "piston-pumps",
+      "name": "K3V140DT",
+      "shortDesc": "For 26–33 ton excavators",
+      "specs": {
+        "displacement": "140 cm³",
+        "rated-pressure": "34.3 MPa",
+        "peak-pressure": "39.2 MPa",
+        "max-primming-speed": "2150 min⁻¹",
+        "max-speed": "2500 min⁻¹",
+        "max-input-torque-tandem-pump": "1120 N.m",
+        "max-input-torque-gear-pump-pto": "294 N.m",
+        "single-pump-weight": "≈ 86 kg",
+        "tandem-pump-weight": "≈ 160 kg",
+        "applications": "SY330"
+      },
+      "description": "High-flow piston pump for mid-large excavators. Enhanced swash plate bearing for extended service life.",
+      "features": [
+        "Swash plate design",
+        "Open center control",
+        "Enhanced bearing durability"
+      ],
+      "image": "/images/products/piston-pumps/piston-pump-K3V140DTP-1.jpg",
+      "compatibleModels": [
+        "SY330"
+      ],
+      "gallery": [
+        "/images/products/piston-pumps/piston-pump-K3V140DTP-1.jpg",
+        "/images/products/piston-pumps/piston-pump-K3V140DTP-2.jpg",
+        "/images/products/piston-pumps/piston-pump-K3V140DTP-3.jpg"
+      ]
+    },
+    {
+      "id": "k3v180",
+      "category": "piston-pumps",
+      "name": "K3V180DT",
+      "shortDesc": "For 34–39 ton excavators",
+      "specs": {
+        "displacement": "140 cm³",
+        "rated-pressure": "34.3 MPa",
+        "peak-pressure": "39.2 MPa",
+        "max-primming-speed": "1950 min⁻¹",
+        "max-speed": "2300 min⁻¹",
+        "max-input-torque-tandem-pump": "1120 N.m",
+        "max-input-torque-gear-pump-pto": "294 N.m",
+        "single-pump-weight": "-",
+        "tandem-pump-weight": "≈ 160 kg",
+        "applications": "SY375"
+      },
+      "description": "Large-displacement piston pump for 34–39 ton excavators. Optimized for high-pressure continuous operation.",
+      "features": [
+        "Swash plate design",
+        "Open center control",
+        "High-strength housing"
+      ],
+      "image": "/images/products/piston-pumps/k3v180.jpg",
+      "compatibleModels": [
+        "SY375"
+      ]
+    },
+    {
+      "id": "k5v140",
+      "category": "piston-pumps",
+      "name": "K5V140DT",
+      "shortDesc": "For 36–43 ton excavators",
+      "specs": {
+        "displacement": "140 cm³",
+        "rated-pressure": "34.3 MPa",
+        "peak-pressure": "39.2 MPa",
+        "max-primming-speed": "2160 min⁻¹",
+        "max-speed": "2500 min⁻¹",
+        "max-input-torque-tandem-pump": "843 N.m",
+        "max-input-torque-gear-pump-pto": "125 N.m",
+        "single-pump-weight": "≈ 68 kg",
+        "tandem-pump-weight": "≈ 125 kg",
+        "applications": "SY395"
+      },
+      "description": "Next-generation piston pump with higher pressure rating and improved volumetric efficiency for large excavators.",
+      "features": [
+        "Swash plate design",
+        "Open center control",
+        "High-efficiency cylinder block"
+      ],
+      "image": "/images/products/piston-pumps/k5v140.jpg",
+      "compatibleModels": [
+        "SY395"
+      ]
+    },
+    {
+      "id": "k5v200",
+      "category": "piston-pumps",
+      "name": "K5V200DT",
+      "shortDesc": "For 46–50 ton excavators",
+      "specs": {
+        "displacement": "200 cm³",
+        "rated-pressure": "34.3 MPa",
+        "peak-pressure": "39.2 MPa",
+        "max-primming-speed": "1900 min⁻¹",
+        "max-speed": "2200 min⁻¹",
+        "max-input-torque-tandem-pump": "1120 N.m",
+        "max-input-torque-gear-pump-pto": "294 N.m",
+        "single-pump-weight": "≈ 86 kg",
+        "tandem-pump-weight": "≈ 160 kg",
+        "applications": "SY485"
+      },
+      "description": "Ultra-high flow piston pump for the largest excavators. Maximum power density and reliability.",
+      "features": [
+        "Swash plate design",
+        "Open center control",
+        "Reinforced shaft and bearings"
+      ],
+      "image": "",
+      "compatibleModels": [
+        "SY485"
+      ],
+      "gallery": []
+    },
+    {
+      "id": "m5x130",
+      "category": "swing-motors",
+      "name": "M5X130",
+      "shortDesc": " ",
+      "specs": {
+        "max-displacement": "129.2 cm³",
+        "rated-pressure": "32.4 MPa",
+        "peak-pressure": "39.2 MPa",
+        "speed": "1850 rpm",
+        "torque": "≈ 666 N·m",
+        "applications": "18–40 ton excavators"
+      },
+      "description": "Compact swash plate axial piston swing motor with high torque density. Ideal for 20–25 ton excavators.",
+      "features": [
+        "High torque density",
+        "Compact housing",
+        "Multiple mounting options"
+      ],
+      "image": "/images/products/swing-motors/swing-device-M5X-130CHB-2.jpg",
+      "compatibleModels": [
+        "SY215"
+      ],
+      "gallery": [
+        "/images/products/swing-motors/swing-device-M5X-130CHB-2.jpg",
+        "/images/products/swing-motors/swing-motor-M5X130CHB-1.jpg",
+        "/images/products/swing-motors/swing-motor-M5X130CHB-10A-1.jpg",
+        "/images/products/swing-motors/swing-motor-M5X130CHB-10A-2.jpg"
+      ]
+    },
+    {
+      "id": "m5x180",
+      "category": "swing-motors",
+      "name": "M5X180",
+      "shortDesc": "",
+      "specs": {
+        "max-displacement": "190.1 cm³",
+        "rated-pressure": "32.4 MPa",
+        "peak-pressure": "39.2 MPa",
+        "speed": "1680 rpm",
+        "torque": "≈ 929 N·m",
+        "applications": "50–75 ton excavators"
+      },
+      "description": "High-capacity swing motor for larger excavators. Robust design ensures smooth rotation under heavy side loads.",
+      "features": [
+        "High torque output",
+        "Durable bearing system",
+        "Low noise operation"
+      ],
+      "image": "/images/products/swing-motors/swing-device-M5X180CHB-1.jpg",
+      "compatibleModels": [
+        "SY335"
+      ],
+      "gallery": [
+        "/images/products/swing-motors/swing-device-M5X180CHB-1.jpg",
+        "/images/products/swing-motors/swing-device-M5X180CHB-2.jpg",
+        "/images/products/swing-motors/swing-motor-M5X-180CHB-1.jpg",
+        "/images/products/swing-motors/swing-motor-M5X-180CHB-2.jpg",
+        "/images/products/swing-motors/swing-motor-M5X180CHB-3.jpg",
+        "/images/products/swing-motors/swing-motor-M5X180CHB-4.jpg"
+      ]
+    },
+    {
+      "id": "ftd45",
+      "category": "travel-motors",
+      "name": "FTD45",
+      "shortDesc": "Travel Devices | For 18–25 ton excavators",
+      "specs": {
+        "torque": "≈ 44520 N·m",
+        "speed": "58.2 rpm",
+        "reduction-ratio": "45.255",
+        "applications": "18–25 ton excavators"
+      },
+      "description": "Integrated travel devices for excavators. Compact and sealed for harsh environments.",
+      "features": [
+        "Integrated design",
+        "High efficiency",
+        "Sealed for harsh environments"
+      ],
+      "image": "/images/products/travel-motors/ftd45.jpg",
+      "compatibleModels": [
+        " "
+      ]
+    },
+    {
+      "id": "ftd48",
+      "category": "travel-motors",
+      "name": "FTD48",
+      "shortDesc": "Travel Devices | For 8–12 ton excavators",
+      "specs": {
+        "torque": "≈ 47580 N·m",
+        "speed": "54.2 rpm",
+        "reduction-ratio": "48.939",
+        "applications": "22–26 ton excavators"
+      },
+      "description": "Mid-range travel motor for standard excavators. Optimized gear ratio delivers excellent traction.",
+      "features": [
+        "Integrated design",
+        "High torque capacity",
+        "Reliable braking system"
+      ],
+      "image": "/images/products/travel-motors/ftd48.jpg",
+      "compatibleModels": [
+        " "
+      ]
+    },
+    {
+      "id": "rg18",
+      "category": "reduction-gears",
+      "name": "RG18",
+      "shortDesc": "For 20–22 ton excavators",
+      "specs": {
+        "max-output-torque": "11000 N·m",
+        "max-output-speed": "87.6 r/min",
+        "gear-ratio": "19.636",
+        "weight": "170 kg",
+        "applications": "20–22 ton excavators"
+      },
+      "description": "Precision helical gear set for swing drive.",
+      "features": [
+        "Hardened helical gears",
+        "Full traceability"
+      ],
+      "image": "/images/products/reduction-gears/rd11.jpg",
+      "compatibleModels": []
+    },
+    {
+      "id": "regulator",
+      "category": "spare-parts",
+      "name": "Regulator Assembly",
+      "shortDesc": "Replacement regulator for K3V/K5V pumps",
+      "specs": {
+        "type": "Regulator",
+        "compatiblePumps": "K3V63, K3V112, K3V140, K3V180, K5V140, K5V200"
+      },
+      "description": "Direct replacement regulator assembly for K3V and K5V series pumps. OEM specifications ensure plug-and-play installation.",
+      "features": [
+        "OEM specifications",
+        "Easy installation",
+        "Tested before shipment"
+      ],
+      "image": "/images/products/parts/parts-regulator-0E-02.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-regulator-0E-02.jpg",
+        "/images/products/parts/parts-regulator-0E-03.jpg",
+        "/images/products/parts/parts-regulator-0E-04.jpg",
+        "/images/products/parts/parts-regulator-0E-07.jpg",
+        "/images/products/parts/parts-regulator-1E-01.jpg",
+        "/images/products/parts/parts-regulator-1E-02.jpg",
+        "/images/products/parts/parts-regulator-1E-03.jpg",
+        "/images/products/parts/parts-regulator-1E-11.jpg",
+        "/images/products/parts/parts-regulator-1E-12.jpg",
+        "/images/products/parts/parts-regulator-1E-13.jpg",
+        "/images/products/parts/parts-regulator-9C-08.jpg",
+        "/images/products/parts/parts-regulator-9C-13.jpg",
+        "/images/products/parts/parts-regulator-9C-15.jpg",
+        "/images/products/parts/parts-regulator-9C-16.jpg",
+        "/images/products/parts/parts-regulator-9N-09.jpg",
+        "/images/products/parts/parts-regulator-9N-16.jpg",
+        "/images/products/parts/parts-regulator-9N-21.jpg",
+        "/images/products/parts/parts-regulator-9N-23.jpg",
+        "/images/products/parts/parts-regulator-9N-25.jpg"
+      ]
+    },
+    {
+      "id": "cylinder-block",
+      "category": "spare-parts",
+      "name": "Cylinder Block (Rotary Group)",
+      "shortDesc": "Replacement cylinder block (rotary group) for M5X130 / M5X180 swing motors",
+      "specs": {
+        "type": "Cylinder Block",
+        "compatiblePumps": "M5X130, M5X180",
+        "material": "-"
+      },
+      "description": "High-precision cylinder block with hardened steel pistons and bronze bushings. Restored pump performance.",
+      "features": [
+        "Matched piston sets",
+        "Precision ground bores",
+        "Balanced weight"
+      ],
+      "image": "/images/products/parts/parts-cylinder-swash-pad-130-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-cylinder-swash-pad-130-01.jpg",
+        "/images/products/parts/parts-cylinder-swash-pad-130-02.jpg",
+        "/images/products/parts/swing-device-cylinder-block-M5X130-03.jpg",
+        "/images/products/parts/swing-device-cylinder-block-M5X130-04.jpg"
+      ]
+    },
+    {
+      "id": "cylinder-assembly",
+      "category": "spare-parts",
+      "name": "Cylinder assembly",
+      "shortDesc": "Cylinder assembly (rotary group) for K5V140 piston pumps",
+      "specs": {
+        "type": "Cylinder Assembly",
+        "compatiblePumps": "K5V140",
+        "material": "-"
+      },
+      "description": "Matched cylinder assembly for K5V140 pumps, engineered to OEM bore and piston tolerances. Restores volumetric efficiency and pressure performance.",
+      "features": [
+        "Matched piston sets",
+        "Precision ground bores",
+        "OEM fit and finish"
+      ],
+      "image": "/images/products/parts/piston-pump-cylinder-block-K5V140-02.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-cylinder-block-K5V140-02.jpg",
+        "/images/products/parts/piston-pump-cylinder-block-K5V140-03.jpg",
+        "/images/products/parts/piston-pump-cylinder-block-K5V140-05.jpg",
+        "/images/products/parts/piston-pump-cylinder-block-K5V140-10.jpg",
+        "/images/products/parts/piston-pump-rotary-group-01.jpg",
+        "/images/products/parts/piston-pump-rotary-group-02.jpg"
+      ]
+    },
+    {
+      "id": "valve-plate",
+      "category": "spare-parts",
+      "name": "Valve Plate",
+      "shortDesc": "Replacement valve plate for K3V/K5V pumps",
+      "specs": {
+        "type": "Valve Plate",
+        "compatiblePumps": "K3V63, K3V112, K3V140, K3V180, K5V140, K5V200",
+        "material": "-"
+      },
+      "description": "Premium valve plate with optimized port timing for reduced noise and improved efficiency.",
+      "features": [
+        "Optimized port timing",
+        "Low noise design",
+        "Wear-resistant coating"
+      ],
+      "image": "/images/products/parts/parts-valve-plate-K3V112-04.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-valve-plate-K3V112-04.jpg",
+        "/images/products/parts/parts-valve-plate-K3V112-05.jpg",
+        "/images/products/parts/parts-valve-plate-K3V112-06.jpg",
+        "/images/products/parts/parts-valve-plate-K3V112-08.jpg",
+        "/images/products/parts/parts-valve-plate-K3V112-10.jpg",
+        "/images/products/parts/parts-valve-plate-K3V112-11.jpg"
+      ]
+    },
+    {
+      "id": "swash-plate",
+      "category": "spare-parts",
+      "name": "Support & Swash Plate",
+      "shortDesc": "Replacement swash plate for K3V/K5V pumps",
+      "specs": {
+        "type": "Support & Swash Plate",
+        "compatiblePumps": "K3V63, K3V112, K3V140, K3V180, K5V140, K5V200",
+        "material": "-"
+      },
+      "description": "OEM-profile swash plate with wear-resistant coating. Restores pump control stability and extends service life.",
+      "features": [
+        "Wear-resistant coating",
+        "OEM profile",
+        "Precision machined surface"
+      ],
+      "image": "/images/products/parts/parts-swash-assy-K3V112-13.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-swash-plate-K3V112-01.jpg",
+        "/images/products/parts/parts-swash-plate-K3V112-02.jpg",
+        "/images/products/parts/parts-swash-plate-K3V112-03.jpg",
+        "/images/products/parts/parts-swash-assy-K3V112-04.jpg",
+        "/images/products/parts/parts-swash-assy-K3V112-05.jpg",
+        "/images/products/parts/parts-swash-assy-K3V112-07.jpg",
+        "/images/products/parts/parts-swash-assy-K3V112-12.jpg",
+        "/images/products/parts/parts-swash-assy-K3V112-13.jpg",
+        "/images/products/parts/swing-device-assembly-02.jpg",
+        "/images/products/parts/swing-device-assembly-05.jpg",
+        "/images/products/parts/swing-device-assembly-06.jpg",
+        "/images/products/parts/swing-device-assembly-01.jpg"
+      ]
+    },
+    {
+      "id": "seal-kit",
+      "category": "spare-parts",
+      "name": "Seal Kit",
+      "shortDesc": "Complete seal kits for K3V/K5V pumps",
+      "specs": {
+        "type": "Seal Kit",
+        "compatiblePumps": "K3V63, K3V112, K3V140, K3V180, K5V140, K5V200",
+        "material": "-"
+      },
+      "description": "Complete seal kits including O-rings, backup rings and wipers. Prevent leakage and keep your pump running clean.",
+      "features": [
+        "Complete O-ring sets",
+        "Backup rings included",
+        "Oil and heat resistant"
+      ],
+      "image": "/images/products/parts/piston-pump-repair-kit-04.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-repair-kit-01.jpg",
+        "/images/products/parts/piston-pump-repair-kit-02.jpg",
+        "/images/products/parts/piston-pump-repair-kit-03.jpg",
+        "/images/products/parts/piston-pump-repair-kit-04.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-01.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-05.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-07.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-08.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-09.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-10.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-11.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-12.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-13.jpg",
+        "/images/products/parts/parts-seal-kit-K3V112-16.jpg",
+        "/images/products/parts/piston-pump-seal-kit-K3V112DTP-01.jpg",
+        "/images/products/parts/piston-pump-seal-kit-K3V112DTP-02.jpg",
+        "/images/products/parts/piston-pump-seal-kit-K3V112DTP-03.jpg",
+        "/images/products/parts/piston-pump-seal-kit-K3V112DTP-04.jpg"
+      ]
+    },
+    {
+      "id": "bearing",
+      "category": "spare-parts",
+      "name": "Needle Bearing",
+      "shortDesc": "Replacement bearing sets for K3V/K5V pumps",
+      "specs": {
+        "type": "Needle Bearing",
+        "compatiblePumps": "K3V63, K3V112, K3V140, K3V180, K5V140, K5V200",
+        "material": "-"
+      },
+      "description": "Cylindrical roller, ball and needle bearing sets matched to pump shaft loads. Smooth rotation, long life.",
+      "features": [
+        "Cylindrical roller bearings",
+        "Ball & needle bearings",
+        "High load capacity"
+      ],
+      "image": "/images/products/parts/parts-bearing-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-bearing-01.jpg",
+        "/images/products/parts/parts-bearing-05.jpg",
+        "/images/products/parts/parts-bearing-06.jpg",
+        "/images/products/parts/parts-bearing-10.jpg",
+        "/images/products/parts/parts-bearing-11.jpg"
+      ]
+    },
+    {
+      "id": "roller-bearing",
+      "category": "spare-parts",
+      "name": "Roller Bearing",
+      "shortDesc": "Replacement roller bearings for K3V/K5V pumps",
+      "specs": {
+        "type": "Roller Bearing",
+        "compatiblePumps": "K3V, K5V series pumps",
+        "material": "Chrome steel"
+      },
+      "description": "Cylindrical roller bearings matched to pump shaft loads. Smooth rotation and long service life under continuous operation.",
+      "features": [
+        "Cylindrical roller design",
+        "High radial load capacity",
+        "Long service life"
+      ],
+      "image": "/images/products/parts/piston-pump-roller-bearing-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-roller-bearing-01.jpg",
+        "/images/products/parts/piston-pump-roller-bearing-02.jpg",
+        "/images/products/parts/piston-pump-roller-bearing-03.jpg",
+        "/images/products/parts/piston-pump-roller-bearing-04.jpg"
+      ]
+    },
+    {
+      "id": "ball-joint",
+      "category": "spare-parts",
+      "name": "Spherical Bush",
+      "shortDesc": "Replacement spherical bush for K3V/K5V pumps",
+      "specs": {
+        "type": "Spherical Bush",
+        "compatiblePumps": "K3V112, K5V140",
+        "material": "Chrome steel"
+      },
+      "description": "High-precision spherical bush for piston pump control. Restores smooth swash plate actuation.",
+      "features": [
+        "Hardened steel ball",
+        "Precision ground",
+        "Wear resistant"
+      ],
+      "image": "/images/products/parts/parts-ball-joint-K3V112-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-ball-joint-K3V112-01.jpg",
+        "/images/products/parts/parts-ball-joint-K3V112-05.jpg",
+        "/images/products/parts/parts-ball-joint-K3V112-06.jpg"
+      ]
+    },
+    {
+      "id": "friction-plate",
+      "category": "spare-parts",
+      "name": "Friction Plate",
+      "shortDesc": "Replacement friction plates for M5X swing motors",
+      "specs": {
+        "type": "Friction Plate",
+        "compatiblePumps": "M5X130",
+        "material": "Sintered bronze"
+      },
+      "description": "Sintered friction plates for M5X swing motor brake packs. Stable torque, long service life.",
+      "features": [
+        "Sintered material",
+        "High friction coefficient",
+        "Oil immersed"
+      ],
+      "image": "/images/products/parts/parts-friction-plate-130-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-friction-plate-130-01.jpg",
+        "/images/products/parts/parts-friction-plate-130-05.jpg",
+        "/images/products/parts/parts-friction-plate-130-06.jpg",
+        "/images/products/parts/parts-friction-plate-130-09.jpg"
+      ]
+    },
+    {
+      "id": "motor-cover",
+      "category": "spare-parts",
+      "name": "Motor Cover",
+      "shortDesc": "Replacement motor covers for M5X swing motors",
+      "specs": {
+        "type": "Motor Cover",
+        "compatiblePumps": "M5X130",
+        "material": "Cast aluminum"
+      },
+      "description": "Cast aluminum motor covers that seal and protect the M5X swing motor internals.",
+      "features": [
+        "Cast aluminum",
+        "Precision machined",
+        "Corrosion resistant"
+      ],
+      "image": "/images/products/parts/parts-motor-cover-130-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-motor-cover-130-01.jpg",
+        "/images/products/parts/parts-motor-cover-130-03.jpg",
+        "/images/products/parts/parts-motor-cover-130-05.jpg",
+        "/images/products/parts/parts-motor-cover-130-09.jpg"
+      ]
+    },
+    {
+      "id": "seal-cover",
+      "category": "spare-parts",
+      "name": "Seal Cover",
+      "shortDesc": "Replacement seal covers for M5X swing motors",
+      "specs": {
+        "type": "Seal Cover",
+        "compatiblePumps": "M5X130",
+        "material": "Cast aluminum"
+      },
+      "description": "Cast aluminum seal covers including oil-seal variants that protect the M5X swing motor front end.",
+      "features": [
+        "Cast aluminum",
+        "Precision machined",
+        "Oil seal included"
+      ],
+      "image": "/images/products/parts/swing-device-front-cover-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/swing-device-front-cover-01.jpg",
+        "/images/products/parts/swing-device-front-cover-02.jpg",
+        "/images/products/parts/swing-device-front-cover-oil-seal-01.jpg",
+        "/images/products/parts/swing-device-front-cover-oil-seal-02.jpg"
+      ]
+    },
+    {
+      "id": "pilot-pump",
+      "category": "spare-parts",
+      "name": "Pilot Pump",
+      "shortDesc": "Replacement pilot pumps for K3V/K5V pumps",
+      "specs": {
+        "type": "Pilot Pump",
+        "compatiblePumps": "K3V140, K5V140",
+        "material": "Cast iron"
+      },
+      "description": "Gear-type pilot pump that supplies control pressure for K3V/K5V main pumps.",
+      "features": [
+        "Gear pump",
+        "Stable output",
+        "Easy replacement"
+      ],
+      "image": "/images/products/parts/parts-pilot-pump-K3V140-02.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-pilot-pump-K3V140-02.jpg",
+        "/images/products/parts/parts-pilot-pump-K3V140-08.jpg",
+        "/images/products/parts/parts-pilot-pump-K3V140-14.jpg",
+        "/images/products/parts/parts-pilot-pump-K3V140-17.jpg",
+        "/images/products/parts/parts-pilot-pump-K3V140-18.jpg",
+        "/images/products/parts/piston-pump-pilot-pump-K3V112-01.jpg",
+        "/images/products/parts/piston-pump-pilot-pump-K3V112-02.jpg",
+        "/images/products/parts/piston-pump-pilot-pump-K3V112-03.jpg",
+        "/images/products/parts/piston-pump-pilot-pump-K3V63K5V80-01.jpg",
+        "/images/products/parts/piston-pump-pilot-pump-K3V63K5V80-02.jpg"
+      ]
+    },
+    {
+      "id": "piston",
+      "category": "spare-parts",
+      "name": "Piston",
+      "shortDesc": "Replacement pistons for K3V/K5V pumps",
+      "specs": {
+        "type": "Piston",
+        "compatiblePumps": "K3V112DT",
+        "material": "Chrome plated steel"
+      },
+      "description": "Chrome-plated pistons matched to cylinder block bores. Restore volumetric efficiency.",
+      "features": [
+        "Chrome plated",
+        "Matched to block",
+        "High surface finish"
+      ],
+      "image": "/images/products/parts/parts-piston-K3V112DT-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/parts-piston-K3V112DT-01.jpg",
+        "/images/products/parts/parts-piston-K3V112DT-03.jpg",
+        "/images/products/parts/parts-piston-K3V112DT-04.jpg",
+        "/images/products/parts/parts-piston-K3V112DT-07.jpg",
+        "/images/products/parts/parts-piston-K3V112DT-08.jpg",
+        "/images/products/parts/parts-piston-K3V112DT-12.jpg"
+      ]
+    },
+    {
+      "id": "connection-plate",
+      "category": "spare-parts",
+      "name": "Connection Plates",
+      "shortDesc": "Replacement connection plates for K3V/K5V pumps",
+      "specs": {
+        "type": "Connection Plates",
+        "compatiblePumps": "K3V, K5V series pumps",
+        "material": "Steel"
+      },
+      "description": "Machined connection plates that link hydraulic pump sections. Durable, dimensionally accurate for direct fit.",
+      "features": [
+        "Precision machined",
+        "Direct fit",
+        "Durable steel"
+      ],
+      "image": "/images/products/parts/piston-pump-connection-plate-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-connection-plate-01.jpg",
+        "/images/products/parts/piston-pump-connection-plate-02.jpg",
+        "/images/products/parts/piston-pump-connection-plate-03.jpg",
+        "/images/products/parts/piston-pump-connection-plate-04.jpg",
+        "/images/products/parts/piston-pump-connection-plate-05.jpg",
+        "/images/products/parts/piston-pump-connection-plate-06.jpg",
+        "/images/products/parts/piston-pump-connection-plate-07.jpg"
+      ]
+    },
+    {
+      "id": "cylinder-spring",
+      "category": "spare-parts",
+      "name": "Cylinder Springs",
+      "shortDesc": "Cylinder return springs for K5V140 pumps",
+      "specs": {
+        "type": "Cylinder Springs",
+        "compatiblePumps": "K5V140",
+        "material": "Spring steel"
+      },
+      "description": "Return springs for piston cylinder blocks in K5V140 pumps. Consistent spring rate and fatigue life.",
+      "features": [
+        "Spring steel",
+        "Stable rate",
+        "Long fatigue life"
+      ],
+      "image": "/images/products/parts/piston-pump-cylinder-spring-K5V140-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-cylinder-spring-K5V140-01.jpg",
+        "/images/products/parts/piston-pump-cylinder-spring-K5V140-06.jpg",
+        "/images/products/parts/piston-pump-cylinder-spring-K5V140-07.jpg"
+      ]
+    },
+    {
+      "id": "middle-valve-body",
+      "category": "spare-parts",
+      "name": "Valve Block",
+      "shortDesc": "Valve blocks for K5V80 pumps",
+      "specs": {
+        "type": "Valve Block",
+        "compatiblePumps": "K5V80",
+        "material": "Cast iron"
+      },
+      "description": "Valve blocks that form the control section of K5V80 pumps. Precision machined bores.",
+      "features": [
+        "Cast iron",
+        "Precision bores",
+        "Control section"
+      ],
+      "image": "/images/products/parts/piston-pump-middle-valve-body-K5V80-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-middle-valve-body-K5V80-01.jpg",
+        "/images/products/parts/piston-pump-middle-valve-body-K5V80-03.jpg",
+        "/images/products/parts/piston-pump-middle-valve-body-K5V80-04.jpg"
+      ]
+    },
+    {
+      "id": "pressure-cutoff-valve",
+      "category": "spare-parts",
+      "name": "Pressure Cutoff Valves",
+      "shortDesc": "Pressure cutoff valves for K5V200SH pumps",
+      "specs": {
+        "type": "Pressure Cutoff Valves",
+        "compatiblePumps": "K5V200SH",
+        "material": "Steel"
+      },
+      "description": "Pressure cutoff valves that protect K5V200SH main pumps from over-pressure. Calibrated and tested.",
+      "features": [
+        "Over-pressure protection",
+        "Calibrated",
+        "Tested"
+      ],
+      "image": "/images/products/parts/piston-pump-pressure-cutoff-valve-K5V200SH-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-pressure-cutoff-valve-K5V200SH-01.jpg",
+        "/images/products/parts/piston-pump-pressure-cutoff-valve-K5V200SH-02.jpg",
+        "/images/products/parts/piston-pump-pressure-cutoff-valve-K5V200SH-03.jpg",
+        "/images/products/parts/piston-pump-pressure-cutoff-valve-K5V200SH-04.jpg"
+      ]
+    },
+    {
+      "id": "shaft",
+      "category": "spare-parts",
+      "name": "Drive Shafts",
+      "shortDesc": "Drive shafts for K3V/K5V pumps and M5X swing motors",
+      "specs": {
+        "type": "Drive Shafts",
+        "compatiblePumps": "K3V, K5V, M5X series",
+        "material": "Alloy steel"
+      },
+      "description": "Front drive shafts, rear drive shafts, and swing-motor drive shafts. Hardened and ground for reliable torque transmission.",
+      "features": [
+        "Alloy steel",
+        "Hardened & ground",
+        "OEM profile"
+      ],
+      "image": "/images/products/parts/piston-pump-pump-front-shaft-03.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-pump-front-shaft-03.jpg",
+        "/images/products/parts/piston-pump-pump-front-shaft-05.jpg",
+        "/images/products/parts/piston-pump-pump-front-shaft-06.jpg",
+        "/images/products/parts/piston-pump-pump-rear-shaft-01.jpg",
+        "/images/products/parts/piston-pump-pump-rear-shaft-05.jpg",
+        "/images/products/parts/piston-pump-pump-rear-shaft-07.jpg",
+        "/images/products/parts/piston-pump-pump-rear-shaft-08.jpg",
+        "/images/products/parts/piston-pump-pump-shaft-K3V112-01.jpg",
+        "/images/products/parts/piston-pump-shaft-01.jpg",
+        "/images/products/parts/piston-pump-shaft-02.jpg",
+        "/images/products/parts/piston-pump-shaft-03.jpg",
+        "/images/products/parts/piston-pump-shaft-04.jpg",
+        "/images/products/parts/piston-pump-shaft-06.jpg",
+        "/images/products/parts/swing-device-drive-shaft-01.jpg",
+        "/images/products/parts/swing-device-drive-shaft-02.jpg",
+        "/images/products/parts/swing-device-drive-shaft-03.jpg",
+        "/images/products/parts/swing-device-drive-shaft-04.jpg",
+        "/images/products/parts/swing-device-motor-shaft-M5X130-01.jpg",
+        "/images/products/parts/swing-device-motor-shaft-M5X130-05.jpg",
+        "/images/products/parts/swing-device-motor-shaft-M5X130-06.jpg",
+        "/images/products/parts/swing-device-motor-shaft-M5X130-07.jpg"
+      ]
+    },
+    {
+      "id": "solenoid-valve",
+      "category": "spare-parts",
+      "name": "E.P.P.R Valve Assembly",
+      "shortDesc": "E.P.P.R valve assemblies and seats for K3V/K5V pumps",
+      "specs": {
+        "type": "E.P.P.R Valve Assembly",
+        "compatiblePumps": "K3V, K5V series pumps",
+        "material": "Steel / Aluminum"
+      },
+      "description": "E.P.P.R valve assemblies, seats and seat blocks for pump control. Reliable actuation and sealing.",
+      "features": [
+        "Reliable actuation",
+        "Seat + block",
+        "OEM style"
+      ],
+      "image": "/images/products/parts/piston-pump-solenoid-valve-seat-04.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-solenoid-valve-01.jpg",
+        "/images/products/parts/piston-pump-solenoid-valve-02.jpg",
+        "/images/products/parts/piston-pump-solenoid-valve-04.jpg",
+        "/images/products/parts/piston-pump-solenoid-valve-seat-02.jpg",
+        "/images/products/parts/piston-pump-solenoid-valve-seat-block-01.jpg",
+        "/images/products/parts/piston-pump-solenoid-valve-seat-04.jpg",
+        "/images/products/parts/piston-pump-solenoid-valve-seat-05.jpg"
+      ]
+    },
+    {
+      "id": "transition-block",
+      "category": "spare-parts",
+      "name": "Transition Blocks",
+      "shortDesc": "Replacement transition blocks for K3V/K5V pumps",
+      "specs": {
+        "type": "Transition Blocks",
+        "compatiblePumps": "K3V, K5V series pumps",
+        "material": "Cast iron / Steel"
+      },
+      "description": "Hydraulic transition blocks that route flow between pump sections. Pressure-rated and leak-tested.",
+      "features": [
+        "Pressure-rated",
+        "Leak-tested",
+        "Precision ports"
+      ],
+      "image": "/images/products/parts/piston-pump-transition-block-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/piston-pump-transition-block-01.jpg",
+        "/images/products/parts/piston-pump-transition-block-03.jpg",
+        "/images/products/parts/piston-pump-transition-block-04.jpg",
+        "/images/products/parts/piston-pump-transition-block-06.jpg",
+        "/images/products/parts/piston-pump-transition-block-07.jpg"
+      ]
+    },
+    {
+      "id": "shift-fork",
+      "category": "spare-parts",
+      "name": "Feedback Lever",
+      "shortDesc": "Feedback levers for M5X swing motors",
+      "specs": {
+        "type": "Feedback Lever",
+        "compatiblePumps": "M5X130, M5X180 swing motors",
+        "material": "Steel"
+      },
+      "description": "Feedback levers that engage the swing motor brake pack. Robust and accurately shaped.",
+      "features": [
+        "Steel",
+        "Accurate shape",
+        "Brake engagement"
+      ],
+      "image": "/images/products/parts/swing-device-shift-fork-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/swing-device-shift-fork-01.jpg",
+        "/images/products/parts/swing-device-shift-fork-02.jpg"
+      ]
+    },
+    {
+      "id": "stop-block",
+      "category": "spare-parts",
+      "name": "Snap Ring",
+      "shortDesc": "Snap rings for M5X swing motors",
+      "specs": {
+        "type": "Snap Ring",
+        "compatiblePumps": "M5X130, M5X180 swing motors",
+        "material": "Steel"
+      },
+      "description": "Snap rings that limit swash tilt in M5X swing motors. Hardened for long service life.",
+      "features": [
+        "Hardened",
+        "Limits swash tilt",
+        "Steel"
+      ],
+      "image": "/images/products/parts/swing-device-stop-block-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/swing-device-stop-block-01.jpg",
+        "/images/products/parts/swing-device-stop-block-03.jpg",
+        "/images/products/parts/swing-device-stop-block-04.jpg"
+      ]
+    },
+    {
+      "id": "tilting-pin",
+      "category": "spare-parts",
+      "name": "Tilting Pins",
+      "shortDesc": "Tilting pins for M5X swing motors",
+      "specs": {
+        "type": "Tilting Pins",
+        "compatiblePumps": "M5X130, M5X180 swing motors",
+        "material": "Hardened steel"
+      },
+      "description": "Tilting pins that pivot the swash in M5X swing motors. Wear-resistant and dimensionally matched.",
+      "features": [
+        "Hardened steel",
+        "Wear-resistant",
+        "Dimensional match"
+      ],
+      "image": "/images/products/parts/swing-device-tilting-pin-01.jpg",
+      "compatibleModels": [],
+      "gallery": [
+        "/images/products/parts/swing-device-tilting-pin-01.jpg",
+        "/images/products/parts/swing-device-tilting-pin-02.jpg",
+        "/images/products/parts/swing-device-tilting-pin-03.jpg",
+        "/images/products/parts/swing-device-tilting-pin-04.jpg"
+      ]
+    }
+  ]
+}

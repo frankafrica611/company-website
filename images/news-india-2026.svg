@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Frank Tech at excavator industry seminar in India">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b22234"/>
+      <stop offset="1" stop-color="#7a1414"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.72" cy="0.42" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- Globe -->
+  <g transform="translate(870,300)" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2">
+    <circle r="150"/>
+    <ellipse rx="150" ry="55"/>
+    <ellipse rx="150" ry="105"/>
+    <line x1="-150" y1="0" x2="150" y2="0"/>
+    <line x1="0" y1="-150" x2="0" y2="150"/>
+    <path d="M -132 -72 A 150 150 0 0 1 132 72" stroke-opacity="0.35"/>
+    <path d="M 132 -72 A 150 150 0 0 1 -132 72" stroke-opacity="0.35"/>
+  </g>
+
+  <!-- Flight route arc to India marker -->
+  <path d="M 250 470 Q 620 120 870 300" fill="none" stroke="#ffffff" stroke-opacity="0.7" stroke-width="2.5" stroke-dasharray="2 10" stroke-linecap="round"/>
+
+  <!-- India location pin -->
+  <g transform="translate(870,300)">
+    <circle r="9" fill="#ffffff"/>
+    <circle r="4" fill="#b22234"/>
+  </g>
+
+  <!-- Departure dot -->
+  <circle cx="250" cy="470" r="6" fill="#ffffff" fill-opacity="0.85"/>
+
+  <!-- Text -->
+  <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="180" font-size="34" font-weight="700" letter-spacing="3" fill-opacity="0.92">FRANK TECH</text>
+    <text x="80" y="250" font-size="62" font-weight="800">India · 2026</text>
+    <text x="82" y="312" font-size="28" fill-opacity="0.9">Excavator Industry Seminar</text>
+    <text x="82" y="500" font-size="22" fill-opacity="0.82">On-site with partners across the excavator hydraulic supply chain</text>
+  </g>
+</svg>
