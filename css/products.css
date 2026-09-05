@@ -441,6 +441,55 @@
   margin-bottom: 8px;
   line-height: 1.6;
 }
+.article-body ol {
+  margin: 16px 0;
+  padding-left: 24px;
+}
+.article-body h3 {
+  font-size: 1.18rem;
+  line-height: 1.4;
+  margin: 26px 0 10px;
+  color: var(--ink);
+}
+.article-body h4 {
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin: 22px 0 8px;
+  color: var(--ink);
+}
+.article-body strong {
+  color: var(--ink);
+}
+.article-body blockquote {
+  margin: 20px 0;
+  padding: 14px 18px;
+  border-left: 4px solid var(--accent);
+  background: var(--soft);
+  border-radius: 0 8px 8px 0;
+  color: var(--ink);
+}
+.article-body blockquote p {
+  margin: 0 0 8px;
+}
+.article-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+.article-body hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 28px 0;
+}
+.article-body .formula {
+  text-align: center;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;
+  margin: 18px 0;
+  color: var(--ink);
+}
+.article-body sup {
+  line-height: 0;
+}
 .article-footer {
   margin-top: 32px;
   text-align: center;
